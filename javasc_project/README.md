@@ -8,7 +8,7 @@ The project was created as part of a JavaScript learning activity.
 ---
 
 
-💻 How to Run
+ How to Run
 1.  Open `index.html` in your browser.  
 2.  Start adding your tasks!  
 3. Click the "Edit" button to edit the task.
@@ -17,18 +17,12 @@ The project was created as part of a JavaScript learning activity.
 
 
 
-## 📸 Screenshots
-### 🖼️ Main Page
-*(Add screenshot here)*
 
-### 🖊️ Editing a Task
-*(Add screenshot here)*
+ Main Page
+(screenshots/main.png)
 
-### 🗑️ Removing a Task
-*(Add screenshot here)*
+ Editing a Task
+(screenshots/edit.png)
 
-You can upload your screenshots to a folder named `screenshots/`  
-and then use this format to show them:
 
-```markdown
-![Main Page](screenshots/main_page.png)
+
