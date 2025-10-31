@@ -19,10 +19,11 @@ The project was created as part of a JavaScript learning activity.
 
 
  Main Page
-(screenshots/main.png.png)
+![Main Page](screenshots/main.png)
 
  Editing a Task
 (screenshots/edit.png)
+
 
 
 
