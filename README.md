@@ -22,7 +22,7 @@ The project was created as part of a JavaScript learning activity.
 ![Main Page](javasc_project/screenshots/main.png)
 
  Editing Tasks
-![Editing tasks](screenshots/edit.png)
+![Editing tasks](javasc_project/screenshots/edit.png)
 
 
 
