@@ -21,8 +21,9 @@ The project was created as part of a JavaScript learning activity.
  Main Page
 ![Main Page](screenshots/main.png)
 
- Editing a Task
-(screenshots/edit.png)
+ Editing Tasks
+![Editing tasks](screenshots/edit.png)
+
 
 
 
